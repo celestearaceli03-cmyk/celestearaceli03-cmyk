@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/assets/image_0.png" width="100%" alt="Anime Style GitHub Profile Header"/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/assets/image_2.png" width="100%" alt="Yuji Itadori Header"/>
 </p>
 
 ***
@@ -75,7 +75,7 @@ A passionate developer from <YOUR_COUNTRY>, blending code with a dose of creativ
 ***
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com MartinVeric/MartinVeric/master/otaku.gif" width="150px" alt="Anime GIF"/>
+  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/otaku.gif" width="150px" alt="Anime GIF"/>
   <br>
   <font size="2">Thanks for visiting my digital corner!</font>
 </p>
