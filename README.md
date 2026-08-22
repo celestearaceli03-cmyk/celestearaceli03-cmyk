@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/L5hY00d/yuji-salute.jpg" width="300px" alt="Yuji Itadori Salute" style="border-radius: 14px;"/>
+  <img src="./yuji.jpg" width="300px" alt="Yuji Itadori Salute" style="border-radius: 14px;"/>
 </div>
+
 
 ***
 
