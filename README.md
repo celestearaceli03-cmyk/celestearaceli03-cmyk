@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="./yuji.jpg" width="300px" alt="Yuji Itadori Salute" style="border-radius: 14px;"/>
+  <img src="./yuji.jpg" width="150px" alt="Yuji Itadori Salute" style="border-radius: 50%; border: 3px solid #f763b3;"/>
 </div>
-
 
 ***
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/waving-hand.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/waving-hand.gif" width="26px">
   Hey there, I'm Mahesh! ⚡
 </h1>
 
@@ -17,7 +16,7 @@
 ---
 
 <div align="center">
-  <img align="right" width="200" src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/manga.png" alt="Manga Illustration"/>
+  <img align="right" width="150" src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/manga.png" alt="Manga Illustration"/>
 </div>
 
 ### 🌸 About Me
@@ -85,7 +84,7 @@ A passionate Full-Stack Developer blending clean architecture with smooth UI exp
 ***
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/otaku.gif" width="140px" alt="Anime GIF"/>
+  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/otaku.gif" width="110px" alt="Anime GIF"/>
   <br>
   <font size="2">Thanks for visiting my digital realm!</font>
 </p>
