@@ -55,16 +55,7 @@ A passionate Full-Stack Developer blending clean architecture with smooth UI exp
 
 <br>
 
-<h3 align="center">
-  Current Quests 📝
-</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=1c1e26&title_color=f763b3&icon_color=ff9ff3&text_color=bdbae3&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=1c1e26&title_color=f763b3&icon_color=ff9ff3&text_color=bdbae3" alt="Top Languages" />
-</div>
-
-***
 
 <h3 align="center">
   Connect with Me! 🤝
