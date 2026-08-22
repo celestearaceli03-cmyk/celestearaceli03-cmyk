@@ -15,9 +15,7 @@
 
 ---
 
-<div align="center">
-  <img align="right" width="150" src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/manga.png" alt="Manga Illustration"/>
-</div>
+
 
 ### 🌸 About Me
 
