@@ -73,10 +73,10 @@ A passionate Full-Stack Developer blending clean architecture with smooth UI exp
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mahesh-makvana?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+  <a href="mailto: maheshbatukbhai170@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
